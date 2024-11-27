@@ -66,3 +66,4 @@ Tu equipo vota, pero al final, solo tú decides. Es tu historia. Tu revolución.
 Sea cual sea tu decisión, el mundo cambia. No es perfecto, pero es diferente, moldeado por la audacia de aquellos que se atrevieron a desafiar el statu quo. Y mientras miras al horizonte —donde drones vuelan entre granjas verticales y ciudades limpias brillan bajo cielos despejados—, sonríes. Sabes que el verdadero poder no estaba en la tecnología, sino en las manos de quienes decidieron usarla para bien.
 
 "El futuro es nuestro. Hackea el tuyo."
+
